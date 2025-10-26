@@ -4,7 +4,7 @@ package Components.Standard;
  * Standard interface for all components.
  *
  * @param <T>
- *            the type of the implementing class
+ *            the type of the implementing class.
  */
 public interface Standard<T> {
 
