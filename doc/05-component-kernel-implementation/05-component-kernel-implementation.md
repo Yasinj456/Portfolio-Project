@@ -1,8 +1,8 @@
 # Portfolio Part 5: Kernel Implementation
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Yasin Jama**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
+- **jama.202**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
+- **11/23 @ 11:59 PM EST**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
 
 ## Assignment Overview
 
@@ -121,6 +121,11 @@ Below is further rationale/explanation for the rubric items above:
 > and interpreted (i.e., by correspondence).
 
 <!-- TODO: select a representation and explain why -->
+For my WorkoutRoutine kernel, I represent the exercises as a List where each string has the exercise name, sets, reps, and weight in the format "name:sets:reps:weight". This representation makes it simple to add, remove, and iterate through exercises while keeping all data together.
+
+Convention: Every string in the list must have a non-null name and sets, reps, and weight must all be positive integers.
+
+Correspondence: Each element in the list represents an exercise in the routine in order with the name, sets, reps, and weight stored in the string.
 
 > To start making your kernel implementation, make a branch off of main in your
 > new repo called something like `kernel-implementation`. There are many ways to
