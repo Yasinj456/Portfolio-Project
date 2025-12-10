@@ -76,3 +76,16 @@ the following form: YYYY.0M.0D.
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
 [2024.08.07]: https://github.com/jrg94/portfolio-project/compare/v2024.01.07...v2024.08.07
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
+
+
+## 2025.11.23
+
+### Added
+
+- Designed kernel implementation for WorkoutRoutine component
+
+
+### Updated
+- Changed design to include
+- Constructors implemented
+- Implemented the methods addExercise, removeExercise, clearRoutine, size, newInstance, transferFrom
