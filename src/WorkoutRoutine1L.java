@@ -33,6 +33,15 @@ public class WorkoutRoutine1L extends WorkoutRoutineSecondary{
         return new List1L<>();
     }
 
+    **
+     * Resets this routine back to empty.
+     */
+    @Override
+    public void clear() {
+        this.clearRoutine();
+    }
+
+
     @Override
     public void addExercise(String name, int sets, int reps, int weight) {
         assert name != null && name.length() > 0;
