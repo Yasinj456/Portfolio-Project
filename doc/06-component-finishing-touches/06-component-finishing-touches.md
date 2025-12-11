@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Yasin Jama**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
+- **jama.202**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
+- **12/10 @11:59 PM EST**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
 
 ## Assignment Overview
 
@@ -272,7 +272,7 @@ that your directories look as follows before submission:
 │                       NaturalNumber1L.java
 │                       NaturalNumberKernel.java
 │                       NaturalNumberSecondary.java
-│
+│ 
 └───test
     │   README.md
     │
@@ -308,17 +308,20 @@ Take some time to fill them out honestly.
 > understand software development and why?
 
 <!-- TODO: discuss -->
+After doing this portfolio project, I feel like I understand software development better than if i only did the projects and labs. Before, it felt like we were just following recipes, but here I had to think about so many things like designs, interfaces, and kernels and how everything fits together. Having to pick a representation and write a convention/correspondence was really tricky and coding it made the whole idea more real. It also showed me that real projects are a lot of small steps and not one big jump.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
 <!-- TODO: discuss -->
+ I realized I was shaky on kernel implementations and understanding how the structure of a component works. I have a good grasp on motly all concepts but a project like this showed me that since I'm not always refining my understanding of them, I forget the little things. To deal with that I read the specs more carefully and broke the work into smaller pieces to get it right. It wasn’t perfect, but I feel more comfortable now.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
 <!-- TODO: discuss -->
+For me, software development was never soemthing I really enjoyed or was intrigued by but learning of all of this was interesting. There are so many things you need to keep at the back of your mind and know where and when to palce certain things. It's enver been something for me personally but I enjoyed this process.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -327,17 +330,25 @@ Take some time to fill them out honestly.
 > through this process?
 
 <!-- TODO: discuss -->
+I learned how to design a component from scratch instead of being handed everything. I practiced using interfaces, an abstract class, and a kernel together in a consistent way. I got more comfortable with JUnit testing without a reference implementation. I also got more practice with Git branches and organizing a repo in a clean way.
+
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
 <!-- TODO: discuss -->
+Designed and implemented a reusable Java workout routine component using OSU CSE software component patterns
+	
+Wrote JUnit test suites to validate Standard, kernel, and secondary methods without a reference implementation.
+
+Managed the project in Git with separate feature branches and a documented changelog and project structure.
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
 <!-- TODO: discuss -->
+I don't hate the topic but it's not something I would want to do as a career. 
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
@@ -345,6 +356,7 @@ Take some time to fill them out honestly.
 > you stay on your path?
 
 <!-- TODO: discuss -->
+This was a valuable experience for me and going forward I now understand this isn't something I really enjoy. I can now comfortably go on to check other areas of CS in my own time and see my compatability with them. There are many people I've met in the Discord whos seem like they know a lot and could give some useful advice. Jeremy is also someone who seems really knowledgeable in many areas of CS and would offer some good insights.
 
 ### Changelog
 
