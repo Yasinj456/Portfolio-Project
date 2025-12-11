@@ -76,3 +76,19 @@ the following form: YYYY.0M.0D.
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
 [2024.08.07]: https://github.com/jrg94/portfolio-project/compare/v2024.01.07...v2024.08.07
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
+
+## 2025.12.10
+
+### Added
+
+- Designed test suite for WorkoutRoutine component
+- Designed two different use cases for WorkoutRoutine component
+
+### Updated
+
+- Changed design to include ...
+- Two test cases for the abstract class and the kernel implementation.
+- Two use cases that demonstrate the usage of the component. WorkoutRoutineDemo and WorkoutPlanner
+- Answered the reflection questions in the doc
+
+```
